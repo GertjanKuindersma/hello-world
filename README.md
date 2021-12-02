@@ -1,2 +1,3 @@
 # hello-world
-first repo
+first repo  
+OWO look guys its git 🍵
